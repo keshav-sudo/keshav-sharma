@@ -56,6 +56,10 @@ For more, check out my **[GitHub Repositories](https://github.com/keshav-sudo?ta
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500px"/>
+</p>
+
 ---
 
 ## 🤝 **Let's Connect**

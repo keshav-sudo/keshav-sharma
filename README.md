@@ -1,7 +1,7 @@
 <!-- 🔥 Profile Header -->
 <h1 align="center"> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-  Hi, I'm <a href="https://github.com/your-username">Your Name</a> 
+  Hi, I'm <a href="https://github.com/keshav-sudo">Keshav</a> 
 </h1>
 
 <p align="center">
@@ -14,7 +14,6 @@
 
 ---
 
-<!-- 💻 Tech Stack -->
 ## 🚀 **Tech Stack & Tools**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/>
@@ -30,41 +29,28 @@
 
 ---
 
-<!-- 📊 GitHub Stats -->
 ## 📊 **GitHub Stats & Achievements**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav-sudo&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=keshav-sudo&show_icons=true&theme=radical" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&margin-w=15&margin-h=15" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav-sudo&layout=compact&theme=radical&hide=css,scss" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=keshav-sudo&theme=radical&margin-w=15&margin-h=15" width="48%">
 </p>
 
 ---
-## 🚀 Keshav's GitHub Profile
 
-### 📊 GitHub Stats
-![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshav-sudo&show_icons=true&theme=dark)
-
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keshav-sudo&theme=dark)
-
-### 📌 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshav-sudo&layout=compact&theme=dark)
-
-<!-- 🌍 Projects -->
 ## 🚀 **Projects & Contributions**
-✅ **[Project Name](https://github.com/your-username/project-repo)** – Short project description.  
-✅ **[Project Name](https://github.com/your-username/project-repo)** – Another key project.  
-✅ **[Open Source Contribution](https://github.com/your-username/contributed-repo)** – Contribution highlight.  
+✅ **[Project Name](https://github.com/keshav-sudo/project-repo)** – Short project description.  
+✅ **[Project Name](https://github.com/keshav-sudo/project-repo)** – Another key project.  
+✅ **[Open Source Contribution](https://github.com/keshav-sudo/contributed-repo)** – Contribution highlight.  
 
 For more, check out my **[GitHub Repositories](https://github.com/keshav-sudo?tab=repositories)**.  
 
 ---
 
-<!-- 🔥 Coding GIF -->
 ## 💻 **Code in Action**
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px"/>
@@ -72,14 +58,10 @@ For more, check out my **[GitHub Repositories](https://github.com/keshav-sudo?ta
 
 ---
 
-<!-- 🤝 Social Media -->
 ## 🤝 **Let's Connect**
 <p align="center">
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://portfolio-yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=white"></a>
+  <a href="https://twitter.com/keshav-sudo"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a href="https://linkedin.com/in/keshav-sudo"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:keshav.sudo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://portfolio-keshav.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=white"></a>
 </p>
-
----
-

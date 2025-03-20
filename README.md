@@ -43,6 +43,16 @@
 </p>
 
 ---
+## 🚀 Keshav's GitHub Profile
+
+### 📊 GitHub Stats
+![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshav-sudo&show_icons=true&theme=dark)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keshav-sudo&theme=dark)
+
+### 📌 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshav-sudo&layout=compact&theme=dark)
 
 <!-- 🌍 Projects -->
 ## 🚀 **Projects & Contributions**

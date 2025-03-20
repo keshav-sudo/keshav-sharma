@@ -50,7 +50,7 @@
 ✅ **[Project Name](https://github.com/your-username/project-repo)** – Another key project.  
 ✅ **[Open Source Contribution](https://github.com/your-username/contributed-repo)** – Contribution highlight.  
 
-For more, check out my **[GitHub Repositories](https://github.com/your-username?tab=repositories)**.  
+For more, check out my **[GitHub Repositories](https://github.com/keshav-sudo?tab=repositories)**.  
 
 ---
 
